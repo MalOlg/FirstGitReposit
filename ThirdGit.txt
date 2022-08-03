@@ -1,1 +1,2 @@
-pit pull
+git pull
+git push
